@@ -1,16 +1,10 @@
-# h1d023081_tugas6
+Nama    : Diky Amarulloh
+NIM     : H1D023081
 
-A new Flutter project.
+Penjelasan : 
+Pertama, pengguna mengisikan data  nama, NIM, dan tahun lahir di form, semua teks yang diketik dan akan otomatis disimpan di TextEditingController. lalu klik tombol Simpan, isi dari masing-masing controller itu diambil dan disimpan ke variabel. Setelah itu, data tadi dikirim ke halaman MahasiswaDetail lewat konstruktor pake Navigator.push(), jadi halaman baru muncul sambil bawa data yang udah diisi tadi. Di halaman detail, data yang dikirim itu diterima lewat parameter konstruktor, terus akan ditampilkan, kurang lebih alurnya akan seperti ini: isi form → tekan simpan → pindah ke halaman detail → data langsung muncul di layar.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+tampilan SS:
+![Teks alternatif](ss1.jpg)
+![Teks alternatif](ss2.jpg)
+![Teks alternatif](ss3.jpg)
